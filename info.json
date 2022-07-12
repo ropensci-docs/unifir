@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "6c827a33c88d90c1c639fe4f4f8ce223be05aa00",
+    "author": "Mike Mahoney <mike.mahoney.218@gmail.com>",
+    "time": "2022-05-13 13:27:09",
+    "files": 5,
+    "merge": false,
+    "message": "Fix URLs\n"
+  },
+  "repo": "https://github.com/ropensci/unifir",
+  "pkg": "unifir"
+}
