@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "197a3d5dd5df79e97684532e190c3b59ab5abd05",
+    "author": "Mike Mahoney <mike.mahoney.218@gmail.com>",
+    "time": "2024-02-01 18:22:29",
+    "files": 2,
+    "merge": false,
+    "message": "Increment version number to 0.2.4.9000\n"
+  },
+  "repo": "https://github.com/ropensci/unifir",
+  "pkg": "unifir"
+}
